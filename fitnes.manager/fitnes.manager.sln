@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fitnes.manager", "fitnes.manager.csproj", "{6111A6CC-196E-41CE-845B-5CC29166EF74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fitnes.core", "..\fitnes.core\fitnes.core.csproj", "{CC4DF3FA-6F03-4D1A-A738-3E4A54DB5BD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6111A6CC-196E-41CE-845B-5CC29166EF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6111A6CC-196E-41CE-845B-5CC29166EF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6111A6CC-196E-41CE-845B-5CC29166EF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6111A6CC-196E-41CE-845B-5CC29166EF74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4DF3FA-6F03-4D1A-A738-3E4A54DB5BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4DF3FA-6F03-4D1A-A738-3E4A54DB5BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4DF3FA-6F03-4D1A-A738-3E4A54DB5BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4DF3FA-6F03-4D1A-A738-3E4A54DB5BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D494FF5A-6014-49B8-BB3C-DA253155480D}
+	EndGlobalSection
+EndGlobal

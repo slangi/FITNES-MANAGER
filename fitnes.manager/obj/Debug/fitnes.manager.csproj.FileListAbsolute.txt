@@ -1,0 +1,13 @@
+C:\Users\Vid\Desktop\fitnes.manager\obj\Debug\fitnes.manager.csproj.AssemblyReference.cache
+C:\Users\Vid\Desktop\fitnes.manager\obj\Debug\fitnes.manager.Properties.Resources.resources
+C:\Users\Vid\Desktop\fitnes.manager\obj\Debug\fitnes.manager.csproj.GenerateResource.cache
+C:\Users\Vid\Desktop\fitnes.manager\obj\Debug\fitnes.manager.csproj.CoreCompileInputs.cache
+C:\Users\Vid\Desktop\fitnes.manager\bin\Debug\fitnes.manager.exe.config
+C:\Users\Vid\Desktop\fitnes.manager\bin\Debug\fitnes.manager.exe
+C:\Users\Vid\Desktop\fitnes.manager\bin\Debug\fitnes.manager.pdb
+C:\Users\Vid\Desktop\fitnes.manager\bin\Debug\fitnes.core.dll
+C:\Users\Vid\Desktop\fitnes.manager\bin\Debug\fitnes.core.pdb
+C:\Users\Vid\Desktop\fitnes.manager\obj\Debug\fitnes.manager.Form1.resources
+C:\Users\Vid\Desktop\fitnes.manager\obj\Debug\fitnes.m.7DE147E6.Up2Date
+C:\Users\Vid\Desktop\fitnes.manager\obj\Debug\fitnes.manager.exe
+C:\Users\Vid\Desktop\fitnes.manager\obj\Debug\fitnes.manager.pdb
