@@ -95,4 +95,4 @@ Windows Forms uporabniški vmesnik:
 
 ### 1. Kloniranje repozitorija
 ```bash
-git clone [TUKAJ_DODAJ_POVEZAVO_DO_REPOZITORIJA]
+git clone https://github.com/slangi/FITNES-MANAGER
